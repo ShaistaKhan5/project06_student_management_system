@@ -1,2 +1,2 @@
-# project06_student_management_system
-Student_Managment
+# 05-CLI-Project-Word-Counter
+Typescript_CLI_Project Word Counter
